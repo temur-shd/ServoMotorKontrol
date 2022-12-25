@@ -1,1 +1,2 @@
 # ServoMotorKontrol
+Ardunio Uno kullanılmıştır.
